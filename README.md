@@ -1,6 +1,6 @@
 # Vision
 
-1. Download file
+1. Download vision file & extract locally
 
 2. cd /vision
 
